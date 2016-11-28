@@ -1,0 +1,82 @@
+ html {height: 100%;
+        width:100%;}
+
+body{height: 100%;
+       width:100%;
+       margin: 0;
+       background-color: black;
+        position:relative;}
+
+header{background-color:rgb(47, 86, 129); /*blue note blue*/
+        margin-top: 0;
+        height:32%;
+        position: relative;
+        width:100%;}
+h1{
+    position: absolute;
+    margin-top: 0;
+    font-size: 7em ;
+    font-family: 'Stint Ultra Expanded', cursive;
+    font-weight: 900;
+    padding: 0;
+    width: 100%;
+     }
+.first_name{color: white;
+              margin-left: 32%;
+              bottom: 3%;
+              background-color: pink;
+              margin-bottom: 6%;
+              }
+.last_name{margin-left: 40%;
+            margin-bottom:0;
+            color:black;
+            bottom: -10px;
+            padding: 0;}
+h2{font-family: 'PT Sans', sans-serif;
+      color: white;
+      font-size: 3em;
+      margin-right: 0;
+      display: block;
+      }
+h2:hover{
+    color:rgb(47,86,129);
+    text-shadow: 2px 2px steelblue;
+  }
+
+
+
+  /*#past:hover ~.about{
+    background-color: white;
+    <textarea name="">hello world</textarea>
+  }
+  #present:hover ~.about{
+    background-color: yellow;
+  }
+  #future:hover~.about{
+    background-color: pink;
+  }*/
+
+  p{font-family: 'PT Sans',sans-serif;
+    color:white;
+    font-size: 1.5em;}
+
+img{float: right;}
+
+.about{height: 540px;
+      width:425px;
+      float:right;
+      margin-right: 80px;
+      margin-top: -39%;
+      font-family: 'PT Sans', sans-serif;
+      color: white;
+      font-size: 1.65em;
+      }
+a{
+    color:rgb(100,150,200);
+    text-decoration: none;
+  }
+
+footer {
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.2em;
+  }
