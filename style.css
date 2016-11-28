@@ -37,6 +37,7 @@ h2{font-family: 'PT Sans', sans-serif;
       font-size: 3em;
       margin-right: 0;
       display: block;
+      width:100px;
       }
 h2:hover{
     color:rgb(47,86,129);
