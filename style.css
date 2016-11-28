@@ -19,7 +19,7 @@ h1{
     font-family: 'Stint Ultra Expanded', cursive;
     font-weight: 900;
     padding: 0;
-    width: 100%;
+    width: 68%;
      }
 .first_name{color: white;
               margin-left: 32%;
@@ -28,6 +28,7 @@ h1{
               margin-bottom: 6%;
               }
 .last_name{margin-left: 40%;
+            width:60%;
             margin-bottom:0;
             color:black;
             bottom: -10px;
@@ -44,7 +45,12 @@ h2:hover{
     text-shadow: 2px 2px steelblue;
   }
 
-
+.wrapper{
+  background-color:goldenrod;
+  width: 35%;
+  margin:5px;
+  display:inline;
+}
 
   /*#past:hover ~.about{
     background-color: white;
@@ -81,3 +87,6 @@ footer {
   font-family: 'PT Sans', sans-serif;
   font-size: 1.2em;
   }
+#past {
+  width: auto;
+}
