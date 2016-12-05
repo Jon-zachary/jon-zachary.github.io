@@ -1,0 +1,63 @@
+header {
+  margin: 0;
+  background-color: black;
+  color: white;
+}
+body {
+  margin:0;
+  position:relative;
+}
+.logo {
+  width:75px;
+  background-color: black;
+  margin: 0 auto;
+  display: inherit;
+}
+
+h1 {
+  font-size: 3em;
+  margin-left: 38%;
+  margin-top: 20px;
+  display: inline-block;
+}
+
+h2 {
+  margin-left: 36%;
+  padding-bottom: 20px;
+  text-decoration: underline;
+}
+
+.world {
+  margin-left: 20%;
+}
+
+li {
+  display:inline-block;
+  padding: 10px;
+  background-color: rgba(4,138,151,.5);
+  font-size: 1em;
+}
+
+ul {
+  margin-left:4%;
+}
+
+li:hover {
+  color: firebrick;
+  background-color: rgba(4,138,151,.75)
+}
+
+footer {
+  position: absolute;
+  right: 0;
+  font-size: 1.5em;
+  font-weight: bolder;
+  color:firebrick;
+}
+
+
+
+
+
+
+
